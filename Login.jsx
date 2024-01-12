@@ -1,3 +1,3 @@
 const Login = () => {
-  <div>Login page updated</div>
+  <div>Login page updated fine</div>
 }
